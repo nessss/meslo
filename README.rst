@@ -19,3 +19,10 @@ Font Families
 ======================================= ========================= ====================================
  Meslo for Powerline                     Meslo                     Apache License, Version 2.0
 ======================================= ========================= ====================================
+
+Meslo for Powerline
+===================
+
+:Font creator: André Berg
+:Source: Provided by system
+:Patched by: `PaBLoX-CL <https://github.com/PaBLoX-CL>`_
